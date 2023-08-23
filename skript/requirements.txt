@@ -3,3 +3,4 @@ python-dotenv
 selenium
 watchdog
 2captcha-python
+dotenv
