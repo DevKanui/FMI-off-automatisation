@@ -17,11 +17,11 @@ On sickw you need to recharge around 5-50 dollars depending on how many devices 
 Quick tutorial 
 
 1. Register on 2captcha and sickw - top up your balance and get your API Keys.
-2. Install python 3.11
+2. Install python 3.11 Note: In the installer, you need to select pip and on the second screen you need to select Add Python to environment variables
 3. Download the script folder from GitHub
 4. Add the API keys to your .env file Note: You can use Notepad++ to do so
 5. Add your Imei list to the imei.txt file
-6. Open the Folder in a cmd 
+6. Open the Folder in a cmd Note: You can achieve that with opening a cmd and then type cd path-to-folder
 7. pip install -r requirements.txt
 8. py checkbox.py
 9. Enjoy
