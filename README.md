@@ -19,7 +19,7 @@ Quick tutorial
 1. Register on 2captcha and sickw - top up your balance and get your API Keys.
 2. Install python 3.11
 3. Download the script folder from GitHub
-4. Add them to the API keys to your .env file
+4. Add the API keys to your .env file Note: You can use Notepad++ to do so
 5. Add your Imei list to the imei.txt file
 6. Open the Folder in a cmd 
 7. pip install -r requirements.txt
