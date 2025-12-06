@@ -1,5 +1,9 @@
 # FMI-off-automatisation
 
+
+Please note that this hasnt been tested nor updated in the past 2 years. And wont recieve further updates
+
+
 First of all - the script ONLY runs with API Keys for 2captcha and sickw. YOU NEED BALANCE ON THE SITES.
 You need to add your own keys to the .env file
 The script will utilize both APIs one time while processing 1 IMEI.
@@ -25,6 +29,3 @@ Quick tutorial
 7. pip install -r requirements.txt
 8. py checkbox.py
 9. Enjoy
-
-
-If you encounter any issues feel free to report them to me. I will take a look at it and solve it asap.
